@@ -1,18 +1,21 @@
-C Application
-======================
-This is a simple C application. This application serves as a basic template for a console application using C.
+# Student Management System (C)
 
-What does this application do?
--------------------------------
-This application prints "Hello, World!" to the console.
+## Description
+This is a console-based Student Management System developed using the C language.
+The application allows the user to manage student details such as roll number,
+name, and marks using a menu-driven approach.
 
-# How to run?
-You can run the application in one of the following ways:
+## Features
+- Add new student records
+- Display all student details
+- Search student by roll number
+- Simple and user-friendly console interface
 
-1. Open a terminal by going to 'View' -> 'Terminal'. Then run:
-    > `g++ main.cpp`
-    > `./a.out`
+## Technologies Used
+- C Language
+- Console Application
 
-This will start the application.
-
-Happy coding! 🙂
+## How to Run
+1. Compile the program using a C compiler
+2. Run the executable file
+3. Follow the on-screen menu instructions
